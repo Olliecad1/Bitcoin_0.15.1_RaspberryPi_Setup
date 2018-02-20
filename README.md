@@ -3,7 +3,7 @@
 Downloading the bash script
 
 ``` 
-git clone https://github.com/Olliecad1/Bitcoin_0.15.1_RaspberryPi_Setup/```
+git clone https://github.com/Olliecad1/Bitcoin_0.15.1_RaspberryPi_Setup/
 ```
 
 Change Directory into the Bitcoin_0.15.1_RaspberryPi_Setup/
