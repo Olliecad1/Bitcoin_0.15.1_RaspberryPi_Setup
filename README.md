@@ -3,7 +3,13 @@
 Downloading the bash script
 
 ``` 
-wget https://github.com/Olliecad1/Bitcoin_0.15.1_RaspberryPi_Setup/blob/master/Installing_Bitcoin_0.15.1.sh
+git clone https://github.com/Olliecad1/Bitcoin_0.15.1_RaspberryPi_Setup/```
+```
+
+Change Directory into the Bitcoin_0.15.1_RaspberryPi_Setup/
+
+```
+cd Bitcoin_0.15.1_RaspberryPi_Setup/
 ```
 
 Executing the Bash Script
