@@ -41,7 +41,7 @@ sudo make install
 # Setting up Bitcoin Data Folder
 mkdir /home/pi/.bitcoin/
 touch ~/.bitcoin/bitcoin.conf
-printf 'listen=1\nserver=1\ndaemon=0\ntestnet=0\nmempoolexpiry=72\nmaxmempool=300\nmaxorphantx=100\nlimitfreerelay=10\nminrelaytxfee=0.0001\nmaxconnections=40\nrpcuser=BITCOIN_USER\nrpcpassword=BITCOIN_NEWPYTHON123751\nrpcport=8332' >> ~/.bitcoin/bitcoin.conf
+printf 'listen=1\nserver=1\ndaemon=0\ntestnet=0\nmempoolexpiry=72\nmaxmempool=300\nmaxorphantx=100\nlimitfreerelay=10\nminrelaytxfee=0.0001\nmaxconnections=40\nrpcuser=BITCOIN_USER\nrpcpassword=BITCOIN_NEWPYTHON123751\nrpcport=8332\ntxindex=1' >> ~/.bitcoin/bitcoin.conf
 
 
 
