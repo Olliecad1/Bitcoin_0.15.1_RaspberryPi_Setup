@@ -18,6 +18,18 @@ Executing the Bash Script
 sudo chmod +x ./Installing_Bitcoin_0.15.1.sh
 ```
 
+Or if you want to run testnet
+
+```
+sudo chmod +x ./Installing_Bitcoin_0.15.1_TestNet.sh
+```
+
+Running the testnet script
+
+```
+./Installing_Bitcoin_0.15.1_TestNet.sh
+```
+
 Running the Script
 
 ``` 
