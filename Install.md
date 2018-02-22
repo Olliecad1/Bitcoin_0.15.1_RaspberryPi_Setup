@@ -17,3 +17,9 @@ Executing the Bash Script
 ```
 sudo chmod +x ./Installing_Bitcoin_0.15.1.sh
 ```
+
+Running the Bash Script
+
+```
+./Installing_Bitcoin_0.15.1.sh
+```
