@@ -9,7 +9,7 @@ git clone https://github.com/Olliecad1/Bitcoin_0.15.1_RaspberryPi_Setup/
 Change Directory into Bitcoin_0.15.1_RaspberryPi_Setup
 
 ```
-cd Bitcoin_0.15.1_RaspberryPi_Setup/
+cd Bitcoin_0.15.1_RaspberryPi_Setup/Scripts
 ```
 
 Executing the Bash Script
